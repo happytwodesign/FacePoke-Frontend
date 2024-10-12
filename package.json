@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "build": "parcel build ./src/index.tsx --dist-dir ../public --public-url ./",
+    "build": "parcel build ./src/index.tsx --dist-dir public --public-url ./",
     "start": "parcel ./src/index.tsx --open"
   },
 
